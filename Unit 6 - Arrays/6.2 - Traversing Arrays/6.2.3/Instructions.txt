@@ -1,0 +1,37 @@
+In the main section of the program, create two String Arrays (first and last) each should hold 4 names (first names in first, last names in last). Initialize the arrays with proper names.
+
+You MUST declare an empty String array to store the returned array.
+
+
+
+Create a static combineNames method to return a new String array that is composed of the first name and last name of each of the parameters.
+
+
+
+When calling the method, the actual parameters are simply the name of the array you want to pass (first). For the formal parameters, you must
+
+specify the data type String[] variable name. Also return the data type must be String[].
+
+
+
+Finally, print the contents of the returned array in the main section.
+
+
+
+This may be confusing so look at the example:
+
+first_names = {"bob","joe"}
+
+last_names = {"jones","smith"}
+
+returns a new String array with {"bob jones", "joe smith"}
+
+
+
+Example output:
+
+bob jones
+
+joe smith
+
+
