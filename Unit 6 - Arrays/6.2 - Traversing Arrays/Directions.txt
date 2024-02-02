@@ -1,0 +1,23 @@
+You do NOT need to create a class, complete everything in main.
+
+
+
+Declare an integer array of size 5 and assign the values 10, 20, 30, 40, and 50 to it.
+
+
+
+Then use a for loop to print out all the elements of the array, one per line, with a space between elements.
+
+
+
+Repeat a 2nd time, print the elements in reverse order one per line, with a space between elements.
+
+
+
+Example output:
+
+10 20 30 40 50 
+
+50 40 30 20 10
+
+
