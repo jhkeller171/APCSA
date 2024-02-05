@@ -1,3 +1,13 @@
+/*
+
+Try using an Enhanced for loop to modify the values of an array, then repeat using a traditional for loop. 
+
+
+
+Use the comments in the template to guide you through the exercise.
+
+*/
+
 public class MyProgram
 {
     public static void main(String[] args)
