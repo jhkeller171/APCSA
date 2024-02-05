@@ -1,3 +1,9 @@
+/*
+
+Given an array, print out the values that are odd.
+
+*/
+
 public class MyProgram
 {
     public static void main(String[] args)
