@@ -1,5 +1,9 @@
 //add your information, date, and description here
-
+/*
+Programmer: James Keller
+Date: 2/23/24
+Description: 8.2 2D Array Project
+*/
 public class MyProgram {
 
     public static void main(String[] args) {
